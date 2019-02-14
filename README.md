@@ -1,2 +1,4 @@
 # LCOM-1819
-Project for theComputer Labs class
+
+Project for the Computer Labs class.
+
